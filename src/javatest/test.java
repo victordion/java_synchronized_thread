@@ -1,14 +1,14 @@
 /**
  * 
  */
-
+package javatest;
 import java.lang.Thread;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 import java.util.Random;
 /**
  * @author thucj_000
- *
+ * This is cui
  */
 
 class ShowThread extends Thread
